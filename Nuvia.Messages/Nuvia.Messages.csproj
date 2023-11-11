@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackageId>Nuvia.Messages</PackageId>
+    <PackageVersion>1.0.3</PackageVersion>
+    <Authors>Nuvia</Authors>
+    <Description>Messaging library for Nuvia.</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Initial release. Contains contract definitions for messages.</PackageReleaseNotes>
+    <Copyright>Copyright 2023 (c) Nuvia. All rights reserved.</Copyright>
+    <PackageTags>nuvia</PackageTags>
+    <PackageOutputPath>../../packages</PackageOutputPath>      
+  </PropertyGroup>
+
+</Project>

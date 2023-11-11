@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackageId>Nuvia.StateMachine</PackageId>
+    <PackageVersion>1.0.3</PackageVersion>
+    <Authors>Nuvia</Authors>
+    <Description>State machine library for Nuvia.</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Inital release.</PackageReleaseNotes>
+    <Copyright>Copyright 2023 (c) Nuvia. All rights reserved.</Copyright>
+    <PackageTags>nuvia</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageOutputPath>../../packages</PackageOutputPath>        
+  </PropertyGroup>
+
+  <ItemGroup>
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Automatonymous" Version="5.1.3" />
+    <PackageReference Include="Nuvia.Messages" Version="1.0.3" />
+  </ItemGroup>
+
+</Project>

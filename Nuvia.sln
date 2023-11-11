@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Nuvia.Lang", "Nuvia.Lang\Nuvia.Lang.fsproj", "{146F42D7-B20F-43F5-843D-6610C14F43D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuvia.StateMachine", "Nuvia.StateMachine\Nuvia.StateMachine.csproj", "{D4E3DCA9-43F3-4602-AB6B-086C9F54CD0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuvia.Messages", "Nuvia.Messages\Nuvia.Messages.csproj", "{C3564E21-1F16-40B6-A1C6-7EB7AEB14C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuvia.Snippets", "Nuvia.Snippets\Nuvia.Snippets.csproj", "{DEFF3EFF-9A37-4A62-B815-67D27F15AFF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146F42D7-B20F-43F5-843D-6610C14F43D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146F42D7-B20F-43F5-843D-6610C14F43D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146F42D7-B20F-43F5-843D-6610C14F43D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146F42D7-B20F-43F5-843D-6610C14F43D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E3DCA9-43F3-4602-AB6B-086C9F54CD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E3DCA9-43F3-4602-AB6B-086C9F54CD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E3DCA9-43F3-4602-AB6B-086C9F54CD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E3DCA9-43F3-4602-AB6B-086C9F54CD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3564E21-1F16-40B6-A1C6-7EB7AEB14C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3564E21-1F16-40B6-A1C6-7EB7AEB14C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3564E21-1F16-40B6-A1C6-7EB7AEB14C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3564E21-1F16-40B6-A1C6-7EB7AEB14C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFF3EFF-9A37-4A62-B815-67D27F15AFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFF3EFF-9A37-4A62-B815-67D27F15AFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFF3EFF-9A37-4A62-B815-67D27F15AFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFF3EFF-9A37-4A62-B815-67D27F15AFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
